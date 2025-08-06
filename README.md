@@ -6,7 +6,7 @@
 
 ## 📞 Contacto
 - **Teléfono:** +57 3134462068
-- **Email:** (johnnyfabiancardozo24@gmail.com)
+- **Email:** [JohnnyCardozo](johnnyfabiancardozo24@gmail.com)
 - **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
 
 ## 🏢 Experiencia Laboral
