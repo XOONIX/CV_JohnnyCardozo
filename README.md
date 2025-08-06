@@ -1,12 +1,12 @@
-# CV_Example
+# CV_<JohnnyCardozo
 # Hoja de Vida
 
-## Nombre Completo
-**Profesión:** _Tu profesión_
+## Johnny Fabian Cardozo Montenegro
+**Profesión:** _Estudiante_
 
 ## 📞 Contacto
-- **Teléfono:** +57 123 456 7890
-- **Email:** [correo@ejemplo.com](mailto:correo@ejemplo.com)
+- **Teléfono:** +57 3134462068
+- **Email:** johnnyfabiancardozo24@gmail.com
 - **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
 
 ## 🏢 Experiencia Laboral
