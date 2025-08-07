@@ -6,24 +6,34 @@
 
 ## 📞 Contacto
 - **Teléfono:** +57 3134462068
-- **Email:** [JohnnyCardozo](johnnyfabiancardozo24@gmail.com)
+- **Email:** [johnnyfabiancardozo24@gmail.com](johnnyfabiancardozo24@gmail.com)
 - **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
 
-## 🏢 Experiencia Laboral
-### **Empresa XYZ** _(2020 - Actualidad)_
-- Puesto ocupado y descripción breve.
 
-### **Empresa ABC** _(2018 - 2020)_
-- Puesto ocupado y descripción breve.
+### **Sena** _(2025 - Actualidad)_
+- Aprendiz en Analisis y desarrollo de software.
+### **J.H.C Telecomunicaciones** _(2019 - 2024)_
+- Dibujante, Realizacion de planos electricos en Autocad.
 
 ## 🎓 Educación
-### **Universidad Ejemplo** _(2014 - 2018)_
-- Título obtenido.
+### **Sena** _(2025 - Actualidad)_
+- Aprendiz en Analisis y desarrollo de software.
+- ### **Smart Academy** _(2021 - 2024)_
+  Nivel B1 en lengua inglesa.
+- ### **Sena** _(2024 - 2024)_
+  Diplomado en Autocad 2D: Aplicacion de herramientas intermedias en la optimizacion de proyectos de dibujo asistido por computador.
+- ### **Sena** _(2023 - 2023)_
+- Diplomado en diseño y planos en autocad 2D
+- ### **Sena** _(2022 - 2022)_
+- Diplomado en English dot works. 
 
+
+
+- 
 ## 💡 Habilidades
-- **Habilidad 1**
-- **Habilidad 2**
-- **Habilidad 3**
+- **Comunicación clara y liderazgo empático**
+- **Resolución creativa de problemas**
+- **Autonomía y mentalidad de aprendizaje continuo**
 
 ---
 
