@@ -2,7 +2,7 @@
 # Hoja de Vida
 
 ## Johnny Fabian Cardozo Montenegro
-**Profesión:** _Estudiante_
+**Profesión:** _Analista y desarrollador de software_
 
 ## 📞 Contacto
 - **Teléfono:** +57 3134462068
